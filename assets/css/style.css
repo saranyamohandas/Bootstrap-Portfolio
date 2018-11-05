@@ -1,0 +1,57 @@
+body {
+    background-image: url(../images/concrete-texture.png);
+}
+.navhead {
+    color: #ffffff;
+}
+.main {
+     margin-top: 5%;
+     background-color: #ffffff;
+}
+
+#imgMain {
+    margin-top: -20px;
+}
+#liner {
+   border-top: 2px solid #cccccc;
+   padding-bottom: 10px;
+   
+}
+label {
+    font-family: arial;
+    color: #99979c ;
+}
+#about {
+    color: #4aaaa5;
+    font-weight: bold;
+    font-size: 30px;
+    padding: 20px;
+    font-family: Georgia,Times,"Times New Roman",serif;
+    
+}
+#btn1{
+    margin: 5px 0;    
+}
+.form-control::placeholder {
+    color: #99979c;
+    opacity: 1;
+}
+
+#foot{
+    background-color: #666666;
+    
+    padding: 20px;
+    position: fixed;
+    bottom: 0;
+    
+    border-top:6px solid #4aaaa5;
+}
+#foot2{
+    font-family: arial;
+    font-size: 10px;
+    text-align: center;
+    color: #dddddd;
+    position: absolute;
+    left: 46%;
+    top: 40%;
+}
