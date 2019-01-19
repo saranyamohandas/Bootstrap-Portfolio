@@ -51,6 +51,6 @@ ___
 * Fonts used -'Georgia', Times, Times New Roman, serif;'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 
 
- __[Portfolio](https://saranyamohandas.github.io/Bootstrap-Portfolio/)__  - Click to check out published git link
+ __[Portfolio](https://saranyamohandas.github.io/Bootstrap-Portfolio/)__  - Click here to check out published git link
 
 
