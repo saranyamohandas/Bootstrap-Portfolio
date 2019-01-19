@@ -1,13 +1,13 @@
-# Bootstrap-Portfolio
+# Full stack developer
 ---
-Homework-2-A - Bootstrap Portfolio
+             Full stack developer Portfolio
 ___
 
 ### This is a basic portfolio application that has been developed using HTML,CSS and Bootstrap framework.
 ### Overview of the application
 #### It has following pages -
 * Index - 'about me' page. It has description about the developer who developed the page.
-* Portfolio - images/work done by the developer.
+* Portfolio - images/work done by the me.
 * Contact  - form to fill for website visitors.
 
 ### Following html elements have been used to build the basic structure -
@@ -48,4 +48,9 @@ ___
 
 * Main content border color: #dddddd
 
-* Fonts used -'Georgia', Times, Times New Roman, serif;'Arial', 'Helvetica Neue', Helvetica, sans-serif;.
+* Fonts used -'Georgia', Times, Times New Roman, serif;'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+
+
+ __[Portfolio](https://saranyamohandas.github.io/Bootstrap-Portfolio/)__  - Click to check out published git link
+
+
