@@ -15,13 +15,12 @@ body {
 }
 .main {
      margin-top: 5%;
-/*     background-color: #ffffff;*/
-     /* background-image: image */
+
 }
 
 #imgMain {
     margin-top: -20px;
-    width: 250px;
+    width: 200px;
     height: 250px;
     border-radius: 50%;
 }
@@ -64,7 +63,7 @@ label {
     position: fixed;
     bottom: 0;
     
-    border-top:6px solid #4aaaa5;
+    border-top:6px solid #FFB167;
 }
 #foot2{
     font-family: arial;
@@ -93,24 +92,9 @@ label {
 .img-thumbnail:hover {
   opacity: 0.3;
 }
-.img-dis{
-    
-    
-}
-/*
-.caption {
-  transition: .5s ease;
-  opacity: 0;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  -ms-transform: translate(-50%, -50%)
+.col {
+    margin-bottom: 30px;
 }
 
-.caption : hover {
-    opacity: 1;
-}
-*/
 
 
